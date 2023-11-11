@@ -5,7 +5,7 @@
 #
 
 """
-<plugin key="EspNowSerial" name="EspNow serial plugin" author="Flying Domotic" version="1.2" externallink="">
+<plugin key="EspNowSerial" name="EspNow serial plugin" author="Flying Domotic" version="1.2" externallink="https://github.com/FlyingDomotic/domoticz-espnowserial-plugin">
 	<params>
 		<param field="SerialPort" label="Serial Port" width="150px" required="true" default="/dev/serial0"/>
 		<param field="Mode1" label="Devices definition (device#switchType|...)" width="400px" required="true" default="SW_1#2|PIR_1#8" />
